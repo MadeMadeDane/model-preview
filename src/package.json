@@ -1,0 +1,27 @@
+{
+  "name": "model-preview",
+  "version": "1.0.0",
+  "description": "web server for previewing modeled assets",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "js-3d-model-viewer": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadeMadeDane/model-preview.git"
+  },
+  "keywords": [
+    "modeling"
+  ],
+  "author": "Ryan Granger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadeMadeDane/model-preview/issues"
+  },
+  "homepage": "https://github.com/MadeMadeDane/model-preview#readme"
+}
